@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/t1001001/tobigpt/issues"
   },
-  "homepage": "https://github.com/t1001001/tobigpt#readme"
+  "homepage": "https://github.com/t1001001/tobigpt#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^7.0.2"
+  }
 }
