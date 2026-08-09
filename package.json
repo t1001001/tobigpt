@@ -1,0 +1,21 @@
+{
+  "name": "tobigpt",
+  "version": "1.0.0",
+  "description": "_\"Why sell Sam Altman my soul if I can do it myself?\"_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t1001001/tobigpt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/t1001001/tobigpt/issues"
+  },
+  "homepage": "https://github.com/t1001001/tobigpt#readme"
+}
