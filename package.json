@@ -2,9 +2,10 @@
   "name": "tobigpt",
   "version": "1.0.0",
   "description": "_\"Why sell Sam Altman my soul if I can do it myself?\"_",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --exec tsx index.ts"
   },
   "repository": {
     "type": "git",
@@ -20,8 +21,8 @@
   "homepage": "https://github.com/t1001001/tobigpt#readme",
   "devDependencies": {
     "nodemon": "^3.1.14",
-    "ts-node": "^10.9.2",
     "tsconfig-paths": "^4.2.0",
+    "tsx": "^4.23.11",
     "typescript": "^7.0.2"
   }
 }
